@@ -1,0 +1,6 @@
+{
+  "name": "VitisID - Identificador de Castas de Videira",
+  "description": "Identificação ampelográfica inteligente de castas de videira (Touriga Nacional, Alvarinho, Arinto, etc.) a partir de fotografias de folhas, cachos ou plantas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
